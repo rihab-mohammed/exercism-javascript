@@ -5,4 +5,4 @@ My solution for the [Hello World](https://exercism.org/tracks/javascript/exercis
 ### 🧠 Problem Summary
 The task is to write a function that returns the string **"Hello, World!"**.
 
-**Language:** JavaScript
+
